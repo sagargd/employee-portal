@@ -42,7 +42,7 @@ export default class Home extends Component {
     <Container>
         <Row>
           <Col>
-             <h2>Home Employee List</h2>
+             <h2>Home Employee List All</h2>
              <SearchBar />
              <EmployeeList />
            </Col>
